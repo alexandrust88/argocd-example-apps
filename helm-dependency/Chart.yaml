@@ -26,6 +26,6 @@ dependencies:
 # - name: wordpress
 #   version: 9.0.3
 #   repository: https://charts.helm.sh/stable
-- name: my-app
+- name: helm-chart-test
   version: 0.1.0
-  repository: https://github.com/gree-gorey/helm-example
+  repository: https://mattiaperi.github.io/helm-chart
