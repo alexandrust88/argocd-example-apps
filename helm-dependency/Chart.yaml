@@ -26,6 +26,6 @@ dependencies:
 # - name: wordpress
 #   version: 9.0.3
 #   repository: https://charts.helm.sh/stable
-- name: hasura-extra
-  version: 2.11.1
-  repository: https://github.com/hasura-extra/hasura-extra/tree/charts/hasura
+- name: my-app
+  version: 0.1.0
+  repository: https://github.com/gree-gorey/helm-example/blob/helm/index.yaml
